@@ -1,0 +1,2 @@
+-- This file is for LazyVim integration only
+-- The actual plugin loading is handled by the LazyVim config
